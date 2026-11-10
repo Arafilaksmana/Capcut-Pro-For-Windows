@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Templates-Included-F1C40F?style=flat-square" alt="Templates">
 </p>
 
-<img width="1280" height="640" alt="image" src="" />
+<img width="1280" height="640" alt="image" src="https://repository-images.githubusercontent.com/1452495258/892ee96f-cfda-46e1-8f77-a1b3b39996e3" />
 
 <p align="center">
   <a href="#-installation">⚙️ Installation</a> •
